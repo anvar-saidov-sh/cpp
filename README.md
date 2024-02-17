@@ -1,2 +1,3 @@
 # MyFirstCodeInCpp
-It is my first git hub repository. So I upload cpp file to show star patterns
+## This is where my journey starts in **Computer Science** and **Computer Engineering**
+It is my first github repository.So I upload .cpp file which represents star patterns
