@@ -329,7 +329,6 @@ int main()
     int switcher4 = -1;
     int switcher5 = -1;
     int switcher6 = -1;
-    int switcher7 = -1;
     bool t_is_logged = false;
     bool s_is_logged = false;
     string t_pass, t_ID;
